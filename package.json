@@ -1,0 +1,8 @@
+{
+  "name": "minecraft-npc-bot",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "mineflayer": "4.31.0"
+  }
+}
